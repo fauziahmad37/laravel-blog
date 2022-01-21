@@ -4,7 +4,7 @@
 
     <h1 class="mb-5">{{ $title }}</h1>
 
-    <div class="row">
+    <div class="row justify-content-center">
         <div class="col-md-6">
             <form action="/posts">
                 <div class="input-group mb-3">
